@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ecommerce_design_only/static/css/main.77b47bff.css",
+    "main.js": "/ecommerce_design_only/static/js/main.e930f9b5.js",
+    "static/media/single-sofa-01.jpg": "/ecommerce_design_only/static/media/single-sofa-01.db24b9feed7582c4e98d.jpg",
+    "static/media/arm-chair-03.jpg": "/ecommerce_design_only/static/media/arm-chair-03.3249f382638c86196acd.jpg",
+    "static/media/arm-chair-01.jpg": "/ecommerce_design_only/static/media/arm-chair-01.ec17d40c57ba24fe8783.jpg",
+    "static/media/arm-chair-02.jpg": "/ecommerce_design_only/static/media/arm-chair-02.fb2852acd360d23eeb04.jpg",
+    "static/media/20944201.jpg": "/ecommerce_design_only/static/media/20944201.a83399c2f902bc957515.jpg",
+    "static/media/phone-06.jpg": "/ecommerce_design_only/static/media/phone-06.29ce26519b75270863b7.jpg",
+    "static/media/mobile1.png": "/ecommerce_design_only/static/media/mobile1.1997f77f2ce6b9677dc6.png",
+    "static/media/item.png": "/ecommerce_design_only/static/media/item.79eafdfba70f40ed66c5.png",
+    "static/media/6310507.jpg": "/ecommerce_design_only/static/media/6310507.9b8f7eef3fb225d15fbd.jpg",
+    "static/media/wireless-02.png": "/ecommerce_design_only/static/media/wireless-02.1af857e3e55314fe3c03.png",
+    "static/media/photo-1624623278313-a930126a11c3.avif": "/ecommerce_design_only/static/media/photo-1624623278313-a930126a11c3.4df46fcea855fae9b696.avif",
+    "static/media/photo-1618898909019-010e4e234c55.avif": "/ecommerce_design_only/static/media/photo-1618898909019-010e4e234c55.3f41eaeb7f3c91a1d5a1.avif",
+    "static/media/sale.png": "/ecommerce_design_only/static/media/sale.fd3bd0e8262078e4961a.png",
+    "static/media/avatar.png": "/ecommerce_design_only/static/media/avatar.f5ed20588df8bb546e2d.png",
+    "static/media/brand3.png": "/ecommerce_design_only/static/media/brand3.1a0049b1f1a261d0e6d1.png",
+    "static/media/8.webp": "/ecommerce_design_only/static/media/8.da49035b181eab7abd2c.webp",
+    "static/media/10.webp": "/ecommerce_design_only/static/media/10.cc4a5f63599990fb78bb.webp",
+    "static/media/5.webp": "/ecommerce_design_only/static/media/5.6814a7252c2f99936931.webp",
+    "static/media/6 (1).webp": "/ecommerce_design_only/static/media/6 (1).fc2dc436c4a40d1cbdc1.webp",
+    "static/media/7.webp": "/ecommerce_design_only/static/media/7.e3495f9f8b5aff729f64.webp",
+    "static/media/3.webp": "/ecommerce_design_only/static/media/3.de6cd26aa2aad1357594.webp",
+    "static/media/6.webp": "/ecommerce_design_only/static/media/6.e2222f840cc42020a44c.webp",
+    "static/media/1.webp": "/ecommerce_design_only/static/media/1.a658b6f2581d3be931d7.webp",
+    "static/media/3 (1).webp": "/ecommerce_design_only/static/media/3 (1).b529d5463d92eaa21673.webp",
+    "static/media/slick.svg": "/ecommerce_design_only/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ecommerce_design_only/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ecommerce_design_only/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ecommerce_design_only/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ecommerce_design_only/index.html",
+    "main.77b47bff.css.map": "/ecommerce_design_only/static/css/main.77b47bff.css.map",
+    "main.e930f9b5.js.map": "/ecommerce_design_only/static/js/main.e930f9b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b47bff.css",
+    "static/js/main.e930f9b5.js"
+  ]
+}
