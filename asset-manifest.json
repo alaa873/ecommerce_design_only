@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerce_design_only/static/css/main.77b47bff.css",
-    "main.js": "/ecommerce_design_only/static/js/main.c6054134.js",
+    "main.js": "/ecommerce_design_only/static/js/main.8486a30f.js",
     "static/media/single-sofa-01.jpg": "/ecommerce_design_only/static/media/single-sofa-01.db24b9feed7582c4e98d.jpg",
     "static/media/arm-chair-03.jpg": "/ecommerce_design_only/static/media/arm-chair-03.3249f382638c86196acd.jpg",
     "static/media/arm-chair-01.jpg": "/ecommerce_design_only/static/media/arm-chair-01.ec17d40c57ba24fe8783.jpg",
@@ -32,10 +32,10 @@
     "static/media/slick.woff": "/ecommerce_design_only/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ecommerce_design_only/index.html",
     "main.77b47bff.css.map": "/ecommerce_design_only/static/css/main.77b47bff.css.map",
-    "main.c6054134.js.map": "/ecommerce_design_only/static/js/main.c6054134.js.map"
+    "main.8486a30f.js.map": "/ecommerce_design_only/static/js/main.8486a30f.js.map"
   },
   "entrypoints": [
     "static/css/main.77b47bff.css",
-    "static/js/main.c6054134.js"
+    "static/js/main.8486a30f.js"
   ]
 }
